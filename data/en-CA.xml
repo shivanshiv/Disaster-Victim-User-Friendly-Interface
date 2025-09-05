@@ -1,0 +1,331 @@
+<translations>
+  <translation>
+    <key>gender_man</key>
+    <value>Man</value>
+  </translation>
+  <translation>
+    <key>gender_woman</key>
+    <value>Woman</value>
+  </translation>
+  <translation>
+    <key>gender_nb</key>
+    <value>Non-binary person</value>
+  </translation>
+  <translation>
+    <key>input_firstname</key>
+    <value>Enter the person's first name:</value>
+  </translation>
+  <translation>
+    <key>report_person</key>
+    <value>%s entered the %s facility on %s.</value>
+  </translation>
+  <translation>
+    <key>menu_title</key>
+    <value>User Friendly Interface</value>
+  </translation>
+  <translation>
+    <key>menu_add_victim</key>
+    <value>Add a new Disaster Victim</value>
+  </translation>
+  <translation>
+    <key>menu_view_modify</key>
+    <value>View or Modify Existing Victim</value>
+  </translation>
+  <translation>
+    <key>menu_log_inquiry</key>
+    <value>Log an Inquiry</value>
+  </translation>
+  <translation>
+    <key>menu_allocate_supply</key>
+    <value>Allocate a Supply</value>
+  </translation>
+  <translation>
+    <key>menu_exit</key>
+    <value>Exit</value>
+  </translation>
+  <translation>
+    <key>menu_prompt</key>
+    <value>Enter your choice (1-5):</value>
+  </translation>
+  <translation>
+    <key>exit_message</key>
+    <value>Program Exited.</value>
+  </translation>
+  <translation>
+    <key>invalid_option</key>
+    <value>Invalid option. Please enter a number between 1 and 5.</value>
+  </translation>
+  <translation>
+    <key>input_lastname</key>
+    <value>Enter last name (optional, press Enter to skip):</value>
+  </translation>
+  <translation>
+    <key>input_entrydate</key>
+    <value>Enter entry date (YYYY-MM-DD):</value>
+  </translation>
+  <translation>
+    <key>input_dob</key>
+    <value>Enter date of birth (YYYY-MM-DD, optional, press Enter to skip):</value>
+  </translation>
+  <translation>
+    <key>input_gender</key>
+    <value>Enter gender (man/woman/non-binary/other, optional, press Enter to skip):</value>
+  </translation>
+  <translation>
+    <key>input_comments</key>
+    <value>Enter comments (optional, press Enter to skip):</value>
+  </translation>
+  <translation>
+    <key>error_message</key>
+    <value>Error: %s Please try again.</value>
+  </translation>
+  <translation>
+    <key>victim_info</key>
+    <value>Victim: %s %s (ID: %s)</value>
+  </translation>
+  <translation>
+    <key>view_details</key>
+    <value>View Details</value>
+  </translation>
+  <translation>
+    <key>add_medical</key>
+    <value>Add Medical Record</value>
+  </translation>
+  <translation>
+    <key>modify_location</key>
+    <value>Modify Location</value>
+  </translation>
+  <translation>
+    <key>modify_family</key>
+    <value>Modify Family Group</value>
+  </translation>
+  <translation>
+    <key>back_to_menu</key>
+    <value>Back to Main Menu</value>
+  </translation>
+  <translation>
+    <key>choose_option</key>
+    <value>Choose an option (1-5):</value>
+  </translation>
+  <translation>
+    <key>detail_firstname</key>
+    <value>First Name: %s</value>
+  </translation>
+  <translation>
+    <key>detail_lastname</key>
+    <value>Last Name: %s</value>
+  </translation>
+  <translation>
+    <key>detail_entrydate</key>
+    <value>Entry Date: %s</value>
+  </translation>
+  <translation>
+    <key>detail_dob</key>
+    <value>Date of Birth: %s</value>
+  </translation>
+  <translation>
+    <key>detail_gender</key>
+    <value>Gender: %s</value>
+  </translation>
+  <translation>
+    <key>detail_comments</key>
+    <value>Comments: %s</value>
+  </translation>
+  <translation>
+    <key>detail_location</key>
+    <value>Location: %s</value>
+  </translation>
+  <translation>
+    <key>detail_family</key>
+    <value>Family Group: %s</value>
+  </translation>
+  <translation>
+    <key>detail_medical</key>
+    <value>Medical Records: %s</value>
+  </translation>
+  <translation>
+    <key>input_treatment</key>
+    <value>Enter treatment details:</value>
+  </translation>
+  <translation>
+    <key>input_treatment_date</key>
+    <value>Enter date of treatment (YYYY-MM-DD):</value>
+  </translation>
+  <translation>
+    <key>medical_added</key>
+    <value>Medical record added successfully.</value>
+  </translation>
+  <translation>
+    <key>input_inquirer_firstname</key>
+    <value>Enter inquirer first name:</value>
+  </translation>
+  <translation>
+    <key>input_inquirer_lastname</key>
+    <value>Enter inquirer last name:</value>
+  </translation>
+  <translation>
+    <key>input_phone</key>
+    <value>Enter inquirer phone number:</value>
+  </translation>
+  <translation>
+    <key>input_inquiry_details</key>
+    <value>Enter inquiry details:</value>
+  </translation>
+  <translation>
+    <key>inquiry_logged</key>
+    <value>Inquiry logged successfully.</value>
+  </translation>
+  <translation>
+    <key>select_supply</key>
+    <value>Select supply type:</value>
+  </translation>
+  <translation>
+    <key>supply_blanket</key>
+    <value>Blanket</value>
+  </translation>
+  <translation>
+    <key>supply_cot</key>
+    <value>Cot</value>
+  </translation>
+  <translation>
+    <key>supply_water</key>
+    <value>Water</value>
+  </translation>
+  <translation>
+    <key>supply_personal</key>
+    <value>Personal Item</value>
+  </translation>
+  <translation>
+    <key>supply_prompt</key>
+    <value>Enter choice (1-4):</value>
+  </translation>
+  <translation>
+    <key>invalid_supply</key>
+    <value>Invalid supply type.</value>
+  </translation>
+  <translation>
+    <key>allocate_to_victim</key>
+    <value>Allocate to a victim? (y/n):</value>
+  </translation>
+  <translation>
+    <key>supply_allocated_victim</key>
+    <value>Supply allocated to %s</value>
+  </translation>
+  <translation>
+    <key>supply_allocated_location</key>
+    <value>Supply allocated to %s</value>
+  </translation>
+  <translation>
+    <key>no_victims</key>
+    <value>No victims available.</value>
+  </translation>
+  <translation>
+    <key>select_victim</key>
+    <value>Select a victim:</value>
+  </translation>
+  <translation>
+    <key>victim_list_item</key>
+    <value>%s %s (ID: %s)</value>
+  </translation>
+  <translation>
+    <key>select_prompt</key>
+    <value>Enter number (or 0 to cancel):</value>
+  </translation>
+  <translation>
+    <key>invalid_input</key>
+    <value>Invalid input. Please enter a number.</value>
+  </translation>
+  <translation>
+    <key>input_location_name</key>
+    <value>Enter location name:</value>
+  </translation>
+  <translation>
+    <key>input_location_address</key>
+    <value>Enter location address:</value>
+  </translation>
+  <translation>
+    <key>empty_location_name</key>
+    <value>Location name cannot be empty. Operation cancelled.</value>
+  </translation>
+  <translation>
+    <key>empty_location_address</key>
+    <value>Location address cannot be empty. Operation cancelled.</value>
+  </translation>
+  <translation>
+    <key>location_added</key>
+    <value>Location %s added successfully.</value>
+  </translation>
+  <translation>
+    <key>location_set</key>
+    <value>Location is set to %s.</value>
+  </translation>
+  <translation>
+    <key>new_family</key>
+    <value>Create a new family group</value>
+  </translation>
+  <translation>
+    <key>join_family</key>
+    <value>Join an existing family group</value>
+  </translation>
+  <translation>
+    <key>no_family</key>
+    <value>No family group</value>
+  </translation>
+  <translation>
+    <key>family_prompt</key>
+    <value>Choose an option (1-3):</value>
+  </translation>
+  <translation>
+    <key>family_created</key>
+    <value>New family group created with ID: %s</value>
+  </translation>
+  <translation>
+    <key>no_families</key>
+    <value>No existing family groups available.</value>
+  </translation>
+  <translation>
+    <key>select_family</key>
+    <value>Select a family group to join:</value>
+  </translation>
+  <translation>
+    <key>family_list_item</key>
+    <value>Family ID: %s (Members: %s)</value>
+  </translation>
+  <translation>
+    <key>family_joined</key>
+    <value>Joined family group with ID: %s</value>
+  </translation>
+  <translation>
+    <key>no_family_assigned</key>
+    <value>No family group assigned.</value>
+  </translation>
+  <translation>
+    <key>invalid_family_option</key>
+    <value>Invalid option. Please enter 1-3.</value>
+  </translation>
+  <translation>
+    <key>error_logged</key>
+    <value>An unrecoverable error occurred. Details logged to errorlog.txt. Exiting.</value>
+  </translation>
+  <translation>
+    <key>error_logging_failed</key>
+    <value>Failed to write to error log. Exiting.\nOriginal error: %s\nLogging error: %s</value>
+  </translation>
+  <translation>
+    <key>input_item_name</key>
+    <value>Enter item name:</value>
+  </translation>
+  <translation>
+    <key>collect_medical_info</key>
+    <value>Now collecting medical record information...</value>
+  </translation>
+  <translation>
+    <key>error_empty_treatment</key>
+    <value>Error: Treatment details cannot be empty.</value>
+  </translation>
+  <translation>
+    <key>received_treatment_prompt</key>
+    <value>Did this victim receive treatment? (y/n):</value>
+  </translation>
+
+</translations>
